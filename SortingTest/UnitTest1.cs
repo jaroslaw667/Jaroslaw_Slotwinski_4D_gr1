@@ -27,5 +27,17 @@
 
             Assert.Equal(oczekiwane, wynik);
         }
+
+        [Fact]
+        public void Test3()
+        {
+            int[] liczby = { -3, 5, -1, 0, -7, 2 };
+            int[] oczekiwane = { -7, -3, -1, 0, 2, 5 };
+
+            var sort = new Sortowanie();
+            int[] wynik = sort.ShellSort(liczby);
+
+            Assert.Equal(oczekiwane, wynik);
+        }
     }
 }
