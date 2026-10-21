@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\bin\Debug\net8.0\Aplikacja_do_testowania.exe
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\bin\Debug\net8.0\Aplikacja_do_testowania.deps.json
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\bin\Debug\net8.0\Aplikacja_do_testowania.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\bin\Debug\net8.0\Aplikacja_do_testowania.dll
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\bin\Debug\net8.0\Aplikacja_do_testowania.pdb
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\obj\Debug\net8.0\Aplikacja_do_testowania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\obj\Debug\net8.0\Aplikacja_do_testowania.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\obj\Debug\net8.0\Aplikacja_do_testowania.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\obj\Debug\net8.0\Aplikacja_do_testowania.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\obj\Debug\net8.0\Aplikacja_do_testowania.dll
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\obj\Debug\net8.0\refint\Aplikacja_do_testowania.dll
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\obj\Debug\net8.0\Aplikacja_do_testowania.pdb
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\obj\Debug\net8.0\Aplikacja_do_testowania.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Aplikacja_do_testowania\Aplikacja_do_testowania\obj\Debug\net8.0\ref\Aplikacja_do_testowania.dll
