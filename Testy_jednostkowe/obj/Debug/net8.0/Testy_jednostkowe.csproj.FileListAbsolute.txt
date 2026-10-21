@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\bin\Debug\net8.0\Testy_jednostkowe.exe
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\bin\Debug\net8.0\Testy_jednostkowe.deps.json
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\bin\Debug\net8.0\Testy_jednostkowe.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\bin\Debug\net8.0\Testy_jednostkowe.dll
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\bin\Debug\net8.0\Testy_jednostkowe.pdb
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\obj\Debug\net8.0\Testy_jednostkowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\obj\Debug\net8.0\Testy_jednostkowe.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\obj\Debug\net8.0\Testy_jednostkowe.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\obj\Debug\net8.0\Testy_jednostkowe.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\obj\Debug\net8.0\Testy_jednostkowe.dll
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\obj\Debug\net8.0\refint\Testy_jednostkowe.dll
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\obj\Debug\net8.0\Testy_jednostkowe.pdb
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\obj\Debug\net8.0\Testy_jednostkowe.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Testy_jednostkowe\Testy_jednostkowe\obj\Debug\net8.0\ref\Testy_jednostkowe.dll
