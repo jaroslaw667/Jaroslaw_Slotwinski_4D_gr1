@@ -39,5 +39,17 @@
 
             Assert.Equal(oczekiwane, wynik);
         }
+
+        [Fact]
+        public void Test4()
+        {
+            int[] liczby = { 3, 1, 2 };
+            int[] nieoczekiwane = { 3, 1, 2 };
+
+            var sort = new Sortowanie();
+            int[] wynik = sort.ShellSort(liczby);
+
+            Assert.NotEqual(nieoczekiwane, wynik);
+
+        }
     }
-}
