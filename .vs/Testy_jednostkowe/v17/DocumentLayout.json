@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Testy_jednostkowe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E9F871-5C51-46D2-A506-B48A968303B2}|jednostkoweTests\\jednostkoweTests.csproj|c:\\users\\lenovo\\source\\repos\\testy_jednostkowe\\jednostkowetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E9F871-5C51-46D2-A506-B48A968303B2}|jednostkoweTests\\jednostkoweTests.csproj|solutionrelative:jednostkowetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC55F02-88EF-4944-AD57-4FE78CE5EC8C}|Testy_jednostkowe\\Testy_jednostkowe.csproj|c:\\users\\lenovo\\source\\repos\\testy_jednostkowe\\testy_jednostkowe\\kalkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC55F02-88EF-4944-AD57-4FE78CE5EC8C}|Testy_jednostkowe\\Testy_jednostkowe.csproj|solutionrelative:testy_jednostkowe\\kalkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC55F02-88EF-4944-AD57-4FE78CE5EC8C}|Testy_jednostkowe\\Testy_jednostkowe.csproj|c:\\users\\lenovo\\source\\repos\\testy_jednostkowe\\testy_jednostkowe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC55F02-88EF-4944-AD57-4FE78CE5EC8C}|Testy_jednostkowe\\Testy_jednostkowe.csproj|solutionrelative:testy_jednostkowe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Testy_jednostkowe\\jednostkoweTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "jednostkoweTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Testy_jednostkowe\\jednostkoweTests\\UnitTest1.cs",
+              "RelativeToolTip": "jednostkoweTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:52:49.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kalkulator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Testy_jednostkowe\\Testy_jednostkowe\\Kalkulator.cs",
+              "RelativeDocumentMoniker": "Testy_jednostkowe\\Kalkulator.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Testy_jednostkowe\\Testy_jednostkowe\\Kalkulator.cs",
+              "RelativeToolTip": "Testy_jednostkowe\\Kalkulator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:47:41.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Testy_jednostkowe\\Testy_jednostkowe\\Program.cs",
+              "RelativeDocumentMoniker": "Testy_jednostkowe\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Testy_jednostkowe\\Testy_jednostkowe\\Program.cs",
+              "RelativeToolTip": "Testy_jednostkowe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:47:00.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
